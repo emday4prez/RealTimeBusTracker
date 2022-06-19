@@ -21,8 +21,12 @@ This project uses data from MBTA to track bus stops from MIT to Harvard.
 I updated updated the styles of the map using Mapbox styles editor.
 
 
-### Links
-To run this website you can download the folder to your computer and load it into the browser. 
+### How to run:
+To run this file first download the root folder from github. 
+ -Visit [mapbox.com](http://www.mapbox.com) and get your own access token. 
+ -Copy/paste the token into the index.html file. 
+ -Drag and drop in index.html page into any web browser. 
+
 
 ## My process
 
